@@ -1,5 +1,5 @@
-# Simple Feed Reader
+# Simple Feed Reader Web App
 
-This is a sample application used for [Azure guidance](https://docs.microsoft.com/aspnet/core/azure/?view=aspnetcore-2.1) tutorials.
+This is a deployment test with Azure App Service. View website [here](https://simplerssfeed.azurewebsites.net).
 
-This app retrieves an RSS feed and displays the results as a list.
+Actual app was forked from [here](https://github.com/dotnet-architecture/simple-feed-reader). This app retrieves an RSS feed and displays the results as a list.
